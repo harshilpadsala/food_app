@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                 Row(
                   children: <Widget>[
                     Icon(Icons.location_on),
-                   Text('Delhi,',
+                   Text('Rajkot,',
                    style: displayOne,),
                     Text('India',
                     style: displayOne,),
