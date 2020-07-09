@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                 Text('Delievery',
                 style: displayThree,
                 ),
-                Icon(FontAwesomeIcons.xbox),
+                Icon(FontAwesomeIcons.pizzaSlice),
               ],
             ),
           ),
